@@ -6,6 +6,7 @@ game.StarterGui:SetCore(
 }
 )
 print("https://discord.gg/frhn2jd6yt")
+end
 while true do wait(60) 
 
 local A_1 = "Crashing..." local A_2 = "All" 

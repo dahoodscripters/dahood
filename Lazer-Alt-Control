@@ -1,10 +1,1 @@
-getgenv().MainAccount = "urmainaccname" -- Put Your Host Accounts Username Here
-getgenv().FPS = 5
-getgenv().AutoRender = true
-getgenv().Alts = {
-    [1] = 0, --replace 0 with your alts ID!
-    [2] = 0,
-    [3] = 0, 
-}
--- IGNORE --
-loadstring(game:HttpGet('https://raw.githubusercontent.com/dahoodscripters/dahood/main/Lazer-Alt-Control-Source', true))()
+
